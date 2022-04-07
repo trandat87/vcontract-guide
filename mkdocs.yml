@@ -1,0 +1,16 @@
+site_name: Hướng dẫn sử dụng hệ thống vContract
+
+nav:
+    - 'Trang chủ': 'index.md'
+    - 'vContract - Hợp đồng điện tử': 
+        - 'Thiết lập luồng ký hợp đồng': 'vContract/thiet-lap-luong-ky.md'                                                
+    - 'Release Notes': 'release-notes.md'
+theme:
+    name: readthedocs
+    navigation_depth: 100
+    highlightjs: true
+extra_css:
+    - css/extra.css
+extra_javascript:
+    - js/extra.js
+copyright: Prepared by <a href="https://hopdongdientu.viettel.vn/">vContract - Viettel.</a>
