@@ -55,3 +55,9 @@ p {
 .rst-content img {
   object-fit: none;
 } */
+
+@media screen and (max-width: 768px){
+  .wy-nav-top {
+      background-color: #ED2F4A;
+  }
+}
