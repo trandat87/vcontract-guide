@@ -3,7 +3,9 @@ site_name: Hướng dẫn sử dụng hệ thống vContract
 nav:
     - 'Trang chủ': 'index.md'
     - 'vContract - Hợp đồng điện tử': 
-        - 'Thiết lập luồng ký hợp đồng': 'vContract/thiet-lap-luong-ky.md'                                                
+        - 'Thiết lập luồng ký hợp đồng': 'vContract/thiet-lap-luong-ky.md'
+        - 'Chức năng cơ bản cho doanh nghiệp': 'vContract/chuc-nang-co-ban-cho-doanh-nghiep.md'
+        - 'Chức năng hợp đồng': 'vContract/chuc-nang-hop-dong.md'        
     - 'Release Notes': 'release-notes.md'
 theme:
     name: readthedocs
