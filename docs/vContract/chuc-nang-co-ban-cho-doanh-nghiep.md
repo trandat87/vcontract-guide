@@ -164,7 +164,7 @@ Sau khi lưu hệ thống sẽ tự động chuyển về màn hình Quản lý 
 
 ![](picture\PIC_SME_Vcontract_QuanLyChiNhanh5.png)
 
-Nếu không muốn tạo mới chi nhánh Quản trị viên có thể nhấn button ![](Aspose.Words.a5e967d5-e07b-4b78-ab55-05e9f2f93931.026.png) (1). Hệ thống sẽ hiển thị thông báo rằng nếu hủy bỏ thì các dữ liệu vừa nhập sẽ bị biến mất. Nếu chấp nhận thì quản trị viên nhấn nút **Đồng ý**  (2), nếu không thì quản trị viên nhấn nút **Bỏ qua** để tiếp tục việc thêm mới chi nhánh.
+Nếu không muốn tạo mới chi nhánh Quản trị viên có thể nhấn button **Huỷ bỏ** (1). Hệ thống sẽ hiển thị thông báo rằng nếu hủy bỏ thì các dữ liệu vừa nhập sẽ bị biến mất. Nếu chấp nhận thì quản trị viên nhấn nút **Đồng ý**  (2), nếu không thì quản trị viên nhấn nút **Bỏ qua** để tiếp tục việc thêm mới chi nhánh.
 
 ##### **Cập nhật thông tin chi nhánh**
 
